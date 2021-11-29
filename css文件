@@ -52,6 +52,7 @@ html {
 
 .x{
 	line-height: 40px;
+	
 }
 	
 
@@ -80,3 +81,10 @@ html {
 .xq1:hover {
 	color: #f8f8f8;
 	background: #3da44e;
+}
+.ss1{
+	width:5%;
+	position: absolute;
+	top: 25%;
+	left:3%;
+}
